@@ -11,8 +11,8 @@
 ## Tutorial
 
 ```bash
-$ export GITHUB_USERNAME=duchessacid                         # Создание переменной окружения GITHUB_USERNAME
-$ export GIST_TOKEN=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    # Создание переменной окружения GIST_TOKEN
+$ export GITHUB_USERNAME=tin1ock                         # Создание переменной окружения GITHUB_USERNAME
+$ export GIST_TOKEN=tinlock228    # Создание переменной окружения GIST_TOKEN
 $ alias edit=gedit                                             # Создание альтернативной версии команды "gedit"
 ```
 
